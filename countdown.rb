@@ -10,7 +10,7 @@ def countdown(number)
 end
 
 countdown(10)
-countdown(12)
+#countdown(12)
 
 def countdown_with_sleep(number)
   while number >= 0
